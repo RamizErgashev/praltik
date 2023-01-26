@@ -1,0 +1,14 @@
+header{
+    background-color: aqua;
+    position: relative;
+}
+ul{
+    font-size: 30px;
+    background-color: blue;
+    color: red;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
